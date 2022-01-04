@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(248, 244, 244);
+}
+.header {
+  padding: 30px;
+  display: flex;
+}
+.logo {
+  width: 30%;
+  text-align: center;
+  justify-content: center;
+}
+.logo img {
+  width: 100px;
+  height: 100px;
+}
+.title {
+  width: 70%;
+  text-align: center;
+  text-transform: uppercase;
+  margin-top: 25px;
+  margin-right: 5%;
+}
+.country-details {
+  display: flex;
+}
+.bangladesh-description {
+  margin-left: 5%;
+  width: 60%;
+}
+.bangladesh-description h1 {
+  padding: 30px;
+  margin-top: 20px;
+  font-size: 40px;
+}
+.bangladesh-description p {
+  padding: 30px;
+  padding-top: 0;
+  text-align: justify;
+}
+.bangladesh-flag {
+  width: 40%;
+}
+.bangladesh-flag img {
+  width: 80%;
+}
+.ct-btn {
+  padding: 30px;
+}
+.country-btn {
+  background-color: green;
+  padding: 10px 20px;
+  color: white;
+  border-radius: 10px;
+  cursor: pointer;
+}
