@@ -56,3 +56,33 @@
   border-radius: 10px;
   cursor: pointer;
 }
+.devition-section {
+  margin-left: 2.5%;
+  margin-right: 2.5%;
+}
+.our-devition {
+  text-align: center;
+  text-transform: uppercase;
+  color: green;
+  border: 5px solid green;
+
+  margin-bottom: 60px;
+}
+.devition {
+  margin-bottom: 50px;
+  display: flex;
+}
+.dhaka {
+  text-align: justify;
+  border-radius: 30px;
+  margin-right: 2.5%;
+  margin-left: 2.5%;
+  box-shadow: 10px 10px 40px gray;
+
+  width: 33%;
+  text-align: center;
+}
+.dhaka img {
+  border-radius: 30px;
+  width: 100%;
+}
